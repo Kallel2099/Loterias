@@ -1,6 +1,6 @@
 # Loterias
 
-$ Programa criado com NetBeans e Maven
+Programa criado com NetBeans e Maven
 
 O programa realiza buscas em resultados previamente baixados do site 
 das loterias Caixa, no formato de planilha.
